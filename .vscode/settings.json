@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/7107700e-3d6e-4f87-b62e-6e759d3e1008/resourceGroups/nodestore/providers/Microsoft.Web/sites/apiAssistec"
+}
